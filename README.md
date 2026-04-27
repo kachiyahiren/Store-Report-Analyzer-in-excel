@@ -115,5 +115,3 @@ It transforms raw sales data into meaningful insights using pivot tables, charts
 
 ---
 ---
-
-## ⭐ If you found this project useful, give it a star!# Store-Report-Analyzer-in-excel
