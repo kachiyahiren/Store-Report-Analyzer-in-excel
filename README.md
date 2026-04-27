@@ -97,7 +97,7 @@ It transforms raw sales data into meaningful insights using pivot tables, charts
 ---
 
 ## 📷 Dashboard Preview
-![Store Report Dashboard](./store_dashboard.png)
+![Store Report Dashboard](https://github.com/kachiyahiren/Store-Report-Analyzer-in-excel/blob/main/Dashboard.png)
 
 
 ## 🧠 Learning Outcomes
