@@ -16,7 +16,7 @@ It transforms raw sales data into meaningful insights using pivot tables, charts
 ---
 
 ## 📁 Project File
-- `PR. 2 Analyzer.xlsx` → Contains raw data, pivot tables, and dashboard
+- `Analyzer.xlsx` → Contains raw data, pivot tables, and dashboard
 
 ---
 
